@@ -1,0 +1,15 @@
+Solution 1:
+. Q . .
+. . . Q
+Q . . .
+. . Q .
+
+Solution 2:
+. . Q .
+Q . . .
+. . . Q
+. Q . .
+
+Total solutions: 2
+Backtracks: 16
+Execution time: 0.000063 seconds
